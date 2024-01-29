@@ -1,5 +1,5 @@
-# alpro_tugas3_smester1
+## NAMA : ANGGA SYA'BAN RAHID
+## NIM  : i2310053
 
-Branch Utama (Main):
-Buat repository baru di GitHub.
-Buat branch utama (main) dari repository tersebut.
+
+
